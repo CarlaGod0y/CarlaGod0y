@@ -1,14 +1,20 @@
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmo4OWo3MWM1ODkzZnp3aXJmaHQ1ZHN2NnY5cjM2ZnJzcHVpNTFscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif"  width = "320px" align = "right" width="40" height="40">
-
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmo4OWo3MWM1ODkzZnp3aXJmaHQ1ZHN2NnY5cjM2ZnJzcHVpNTFscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif" width = "325px" align = "right">
+ 
  ## Seja bem vindo ao meu GitHub!
 
 - 🙋🏽‍♀️ Me chamo Carla
 - 💒 Sou de São Paulo
 - 💼 Trabalho na emrpresa NTT Data
 - 👩🏽‍🎓 Formada em Administração de Empresas pela Universidade Nove de Julho
-- 👩🏽‍🤝‍🧑🏽 Casada e mãe de pet.
+- 👩🏽‍🤝‍🧑🏽 Casada
+- 💻 Cursando graduação Tecnologia da Informação
+- 👩🏽‍💻 Cursando o Bootcamp de Engenharia de Dados com Python pela plataforma DIO em parceria com a NTT Data.  
 
-Estou cursando graduação Tecnologia da Informação e fazendo o Bootcamp de Engenharia de Dados com Python pela plataforma DIO em parceria com a empresa onde trabalho.  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 
 ---
 <div align = "left">
