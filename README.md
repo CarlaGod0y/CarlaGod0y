@@ -3,12 +3,12 @@
  ## Seja bem vindo ao meu GitHub!
 
 - 🙋🏽‍♀️ Me chamo Carla
-- 💒 Sou de São Paulo
+- 💒 Moro em São Paulo
 - 💼 Trabalho na emrpresa NTT Data
-- 👩🏽‍🎓 Formada em Administração de Empresas pela Universidade Nove de Julho
+- 👩🏽‍🎓 Formada em Administração de Empresas pela UNINOVE
 - 👩🏽‍🤝‍🧑🏽 Casada
 - 💻 Cursando graduação Tecnologia da Informação
-- 👩🏽‍💻 Cursando o Bootcamp de Engenharia de Dados com Python pela plataforma DIO em parceria com a NTT Data.  
+- 👩🏽‍💻 Cursando o Bootcamp de Engenharia de Dados com Python (DIO + NTT Data)
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
