@@ -10,8 +10,11 @@
 - 💻 Cursando graduação em TI - UNIVESP
 - 👩🏽‍💻 Cursando o Bootcamp de Engenharia de Dados com Python (DIO + NTT Data)
 <div id="badges">
-  <a href = "https://www.linkedin.com/in/carla-godoy">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<a href = "https://www.linkedin.com/in/carla-godoy">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href = "https://www.instagram.com/carlagodoy12">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
  
 ---
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
