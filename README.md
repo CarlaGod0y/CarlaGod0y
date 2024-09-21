@@ -5,18 +5,21 @@
 - 🙋🏽‍♀️ Me chamo Carla
 - 💒 Moro em São Paulo
 - 💼 Trabalho na emrpresa NTT Data
-- 👩🏽‍🎓 Formada em Administração de Empresas pela UNINOVE
+- 👩🏽‍🎓 Formada em Administração de Empresas - UNINOVE
 - 👩🏽‍🤝‍🧑🏽 Casada
-- 💻 Cursando graduação Tecnologia da Informação
+- 💻 Cursando graduação em TI - UNIVESP
 - 👩🏽‍💻 Cursando o Bootcamp de Engenharia de Dados com Python (DIO + NTT Data)
-
+<div id="badges">
+  <a href = "https://www.linkedin.com/in/carla-godoy">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+ 
+---
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
       <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
          <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 
----
 <div align = "left">
 <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlagod0y&show_icons=true&theme=bear&count_private=true"/>
 <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=carlagod0y&show_icons=true&show_icons=true&theme=bear&count_private=true" />
