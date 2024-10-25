@@ -1,6 +1,8 @@
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmo4OWo3MWM1ODkzZnp3aXJmaHQ1ZHN2NnY5cjM2ZnJzcHVpNTFscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif" width = "325px" align = "right">
+
  
  ## Seja bem vindo ao meu GitHub!
+
+ <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmo4OWo3MWM1ODkzZnp3aXJmaHQ1ZHN2NnY5cjM2ZnJzcHVpNTFscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif" width = "300px" align = "right">
 
 - 🙋🏽‍♀️ Me chamo Carla
 - 💒 Moro em São Paulo
