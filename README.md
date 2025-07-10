@@ -2,15 +2,14 @@
  
  ## Seja bem vindo ao meu GitHub!
 
- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmo4OWo3MWM1ODkzZnp3aXJmaHQ1ZHN2NnY5cjM2ZnJzcHVpNTFscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif" width = "300px" align = "right">
+ <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmo4OWo3MWM1ODkzZnp3aXJmaHQ1ZHN2NnY5cjM2ZnJzcHVpNTFscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif" width = "250px" align = "right">
 
 - 🙋🏽‍♀️ Me chamo Carla
 - 💒 Moro em São Paulo
 - 💼 Trabalho na emrpresa NTT Data
 - 👩🏽‍🎓 Formada em Administração de Empresas - UNINOVE
 - 👩🏽‍🤝‍🧑🏽 Casada
-- 💻 Cursando graduação em TI - UNIVESP
-- 👩🏽‍💻 Cursando o Bootcamp de Engenharia de Dados com Python (DIO + NTT Data)
+
 <div id="badges">
 <a href = "https://www.linkedin.com/in/carla-godoy">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
